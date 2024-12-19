@@ -7,7 +7,7 @@
         <mxCell id="k1QMkolN6IlTNRxzYxFX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-0" target="k1QMkolN6IlTNRxzYxFX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k1QMkolN6IlTNRxzYxFX-0" value="Game start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-0" value="Game start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-1" target="k1QMkolN6IlTNRxzYxFX-10">
@@ -68,10 +68,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-22" value="The Hermit crab" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="142.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-24" value="In-game Shop" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="110" width="120" height="45" as="geometry" />
+          <mxGeometry x="980" y="70" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-26" value="Turtle" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="825" y="70" width="110" height="40" as="geometry" />
@@ -80,28 +80,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-28" value="Sunken plane" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="980" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-30" target="k1QMkolN6IlTNRxzYxFX-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-30" value="crab asks you to gather trash&lt;div&gt;crab sends you to clean sunken plane&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="285" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="232.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-33" target="k1QMkolN6IlTNRxzYxFX-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-33" value="Player cleans the room" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="471.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-35" target="k1QMkolN6IlTNRxzYxFX-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-35" value="Waste Monster fight begins" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="496" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-39" value="Graveyard" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="576" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-41" target="k1QMkolN6IlTNRxzYxFX-43">
           <mxGeometry relative="1" as="geometry" />
@@ -172,16 +172,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-67" value="Oil Rig" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295" y="516" width="120" height="75" as="geometry" />
+          <mxGeometry x="340" y="399" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-68" target="k1QMkolN6IlTNRxzYxFX-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-68" value="Trivia battle with CEO" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="523.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="406.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k1QMkolN6IlTNRxzYxFX-70" value="Ending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="531.75" width="120" height="43.5" as="geometry" />
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-70" value="Ending" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="414.75" width="120" height="43.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
