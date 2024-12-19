@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="841" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="877" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -52,17 +52,59 @@
         <mxCell id="k1QMkolN6IlTNRxzYxFX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-20" target="k1QMkolN6IlTNRxzYxFX-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-20" target="k1QMkolN6IlTNRxzYxFX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-20" target="k1QMkolN6IlTNRxzYxFX-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-20" value="Hub Location" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="192.5" width="120" height="65" as="geometry" />
+          <mxGeometry x="820" y="192.5" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-22" target="k1QMkolN6IlTNRxzYxFX-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-22" target="k1QMkolN6IlTNRxzYxFX-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-22" value="The Hermit crab" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="198.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1QMkolN6IlTNRxzYxFX-24" value="In-game Shop" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="70" width="120" height="45" as="geometry" />
+          <mxGeometry x="1000" y="100" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-26" value="Turtle" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="70" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-28" target="k1QMkolN6IlTNRxzYxFX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-28" value="Sunken plane" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-30" target="k1QMkolN6IlTNRxzYxFX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-30" value="crab asks you to gather trash&lt;div&gt;crab sends you to clean sunken plane&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-33" target="k1QMkolN6IlTNRxzYxFX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-33" value="Player cleans the room" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k1QMkolN6IlTNRxzYxFX-35" target="k1QMkolN6IlTNRxzYxFX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-35" value="Waste Monster fight begins" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-39" value="Graveyard" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k1QMkolN6IlTNRxzYxFX-41" value="Sunken Ship" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="280" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
